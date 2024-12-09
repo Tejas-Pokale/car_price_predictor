@@ -1,3 +1,4 @@
+.gitignore
 capstone_project.ipynb
 processed_car_data.csv
 sample_car_data.csv
